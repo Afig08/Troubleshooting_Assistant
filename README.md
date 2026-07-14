@@ -11,5 +11,5 @@ This project demonstrates how early AI systems worked before machine learning. I
 The purpose of this project is to understand how rule-based artificial intelligence systems work. A rule-based system makes decisions by following predefined logic such as:
 
 
-IF the user selects SyntaxError
-THEN suggest checking for missing colons, parentheses, quotation marks, or indentation.
+`IF` the user selects SyntaxError
+`THEN` suggest checking for missing colons, parentheses, quotation marks, or indentation.
